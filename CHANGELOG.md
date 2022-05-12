@@ -1,3 +1,10 @@
+## [11.2.3](https://github.com/StephanU/ngx-sortablejs/compare/v11.2.2...v11.2.3) (2022-05-12)
+
+
+### Bug Fixes
+
+* **deps:** Dependency updates. ([0d5a2fc](https://github.com/StephanU/ngx-sortablejs/commit/0d5a2fc4f0224f2a2840c006cfdbf2b129ad0fdc))
+
 ## [11.2.2](https://github.com/StephanU/ngx-sortablejs/compare/v11.2.1...v11.2.2) (2022-05-12)
 
 
