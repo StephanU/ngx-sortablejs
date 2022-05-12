@@ -1,3 +1,10 @@
+# [11.2.0](https://github.com/StephanU/ngx-sortablejs/compare/v11.1.0...v11.2.0) (2022-05-12)
+
+
+### Features
+
+* migrate to Angular 12 ([7b12c27](https://github.com/StephanU/ngx-sortablejs/commit/7b12c272664b055cc1c9c16d93c72365dc25eaec))
+
 # [10.1.0](https://github.com/SortableJS/ngx-sortablejs/compare/v10.0.0...v10.1.0) (2020-12-25)
 
 
