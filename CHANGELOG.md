@@ -1,3 +1,20 @@
+# [12.0.0](https://github.com/StephanU/ngx-sortablejs/compare/v11.2.3...v12.0.0) (2022-05-24)
+
+
+### Bug Fixes
+
+* **dependencies:** Updated Karma coverage. ([b53bacd](https://github.com/StephanU/ngx-sortablejs/commit/b53bacd715bbf748bba7866fce02f744aad9f3cd))
+
+
+### Performance Improvements
+
+* **dependencies:** Upgrade to Angular 13 ([5e1f6be](https://github.com/StephanU/ngx-sortablejs/commit/5e1f6bec8f59a70aee668a9528a20a9db055b5e3))
+
+
+### BREAKING CHANGES
+
+* **dependencies:** Upgrade to Angular 13
+
 ## [11.2.3](https://github.com/StephanU/ngx-sortablejs/compare/v11.2.2...v11.2.3) (2022-05-12)
 
 
