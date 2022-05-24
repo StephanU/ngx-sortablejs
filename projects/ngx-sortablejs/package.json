@@ -15,7 +15,7 @@
     "url": "https://github.com/sortablejs/ngx-sortablejs"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://nexus.hsh-global.de/repository/hsh-global-npm/"
   },
   "peerDependencies": {
     "@angular/common": "^13.3.9",
