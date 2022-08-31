@@ -1,3 +1,10 @@
+## [12.0.2](https://github.com/StephanU/ngx-sortablejs/compare/v12.0.1...v12.0.2) (2022-08-31)
+
+
+### Bug Fixes
+
+* **dependencies:** Update to Angular 14. ([e87c155](https://github.com/StephanU/ngx-sortablejs/commit/e87c1550bf734b4051a7ebc17006bf2b084572cf))
+
 ## [12.0.1](https://github.com/StephanU/ngx-sortablejs/compare/v12.0.0...v12.0.1) (2022-05-24)
 
 
