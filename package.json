@@ -58,7 +58,6 @@
     "karma-coverage": "^2.1.0",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
-    "ng-packagr": "^13.3.1",
     "ngx-spec": "^2.1.4",
     "protractor": "~7.0.0",
     "semantic-release": "^15.14.0",

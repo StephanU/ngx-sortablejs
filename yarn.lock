@@ -196,9 +196,9 @@
     "tslib" "^2.3.0"
 
 "@angular/core@9.0.0":
-  "version" "12.2.16"
-  dependencies:
-    "tslib" "^2.2.0"
+  "integrity" "sha512-6Pxgsrf0qF9iFFqmIcWmjJGkkCaCm6V5QNnxMy2KloO3SDq6QuMVRbN9RtC8Urmo25LP+eZ6ZgYqFYpdD8Hd9w=="
+  "resolved" "https://registry.npmjs.org/@angular/core/-/core-9.0.0.tgz"
+  "version" "9.0.0"
 
 "@angular/forms@^13.0.0", "@angular/forms@~13.3.9":
   "integrity" "sha512-eNOsqMVrMsBceoAJ9pS+2qQDWsgwt62q7abqfYdzSdkjWbnLrtaIPP6iYMGQke1pIcdUSyoun29VsdQTSXXksg=="
@@ -6846,7 +6846,7 @@
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/nerf-dart/-/nerf-dart-1.0.0.tgz"
   "version" "1.0.0"
 
-"ng-packagr@^13.0.0", "ng-packagr@^13.3.1":
+"ng-packagr@^13.0.0":
   "integrity" "sha512-RFB6+03qPlhsOZc0wPenkyCceUYU0kRymbO7fIZ4Uz3y7RltXeknfjWKVcN6o5o42Md/lbNabt4gViXNzahhjA=="
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/ng-packagr/-/ng-packagr-13.3.1.tgz"
   "version" "13.3.1"
@@ -8900,7 +8900,7 @@
   dependencies:
     "aproba" "^1.1.1"
 
-"rxjs@^6.5.3", "rxjs@^6.5.3 || ^7.0.0", "rxjs@^6.5.3 || ^7.4.0", "rxjs@~6.5.4":
+"rxjs@^6.5.3", "rxjs@^6.5.3 || ^7.4.0", "rxjs@~6.5.4":
   "integrity" "sha512-WfQI+1gohdf0Dai/Bbmk5L5ItH5tYqm3ki2c5GdWhKjalzjg93N3avFjVStyZZz+A2Em+ZxKH5bNghw9UeylGQ=="
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/rxjs/-/rxjs-6.5.5.tgz"
   "version" "6.5.5"
@@ -10085,11 +10085,6 @@
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/tslib/-/tslib-2.4.0.tgz"
   "version" "2.4.0"
 
-"tslib@^2.2.0":
-  "integrity" "sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ=="
-  "resolved" "https://nexus.hsh-global.de/repository/npm-group/tslib/-/tslib-2.4.0.tgz"
-  "version" "2.4.0"
-
 "tslib@2.3.1":
   "integrity" "sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw=="
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/tslib/-/tslib-2.3.1.tgz"
@@ -10835,7 +10830,7 @@
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/yn/-/yn-2.0.0.tgz"
   "version" "2.0.0"
 
-"zone.js@~0.10.3":
+"zone.js@~0.10.2", "zone.js@~0.10.3":
   "integrity" "sha512-LXVLVEq0NNOqK/fLJo3d0kfzd4sxwn2/h67/02pjCjfKDxgx1i9QqpvtHD8CrBnSSwMw5+dy11O7FRX5mkO7Cg=="
   "resolved" "https://nexus.hsh-global.de/repository/npm-group/zone.js/-/zone.js-0.10.3.tgz"
   "version" "0.10.3"
