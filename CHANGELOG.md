@@ -1,3 +1,10 @@
+# [12.1.0](https://github.com/StephanU/ngx-sortablejs/compare/v12.0.2...v12.1.0) (2024-05-29)
+
+
+### Features
+
+* **Angular17:** Upgrade to angular 17 ([6bdb180](https://github.com/StephanU/ngx-sortablejs/commit/6bdb180d220dae88fa031bab61d3052107242ca3))
+
 ## [12.0.2](https://github.com/StephanU/ngx-sortablejs/compare/v12.0.1...v12.0.2) (2022-08-31)
 
 
