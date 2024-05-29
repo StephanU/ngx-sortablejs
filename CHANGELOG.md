@@ -1,3 +1,10 @@
+## [12.1.1](https://github.com/StephanU/ngx-sortablejs/compare/v12.1.0...v12.1.1) (2024-05-29)
+
+
+### Bug Fixes
+
+* **build:** Fixed build. ([f3e32dd](https://github.com/StephanU/ngx-sortablejs/commit/f3e32dd3a67b10e1fa7211fe6681f55da39de1d1))
+
 # [12.1.0](https://github.com/StephanU/ngx-sortablejs/compare/v12.0.2...v12.1.0) (2024-05-29)
 
 
